@@ -1,0 +1,10 @@
+.Industry-data {
+    width: 800px;
+    padding: .5em;
+    display: flex;
+    background-color: aquamarine;
+}
+
+.Data {
+    width: 33%;
+}
